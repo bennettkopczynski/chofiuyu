@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faedugeigh.blueballwyy.com/sitemap.xml
